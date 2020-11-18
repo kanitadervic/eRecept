@@ -1,4 +1,5 @@
 ### Topic: Online recipe book
+Project in ASP.NET CORE and Angular for the course Object-oriented Methods for Design and Analysis at Faculty of Electrical Engineering, Sarajevo.
  
 ## Members:
 - [Dervić Kanita](https://github.com/kdervic1)
