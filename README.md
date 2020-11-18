@@ -3,8 +3,8 @@ Project developed using ASP.NET CORE and Angular for the course Object-oriented 
  
 ## Members:
 - [Dervić Kanita](https://github.com/kdervic1)
-- [Dudić Jasmin](https://github.com/JasminDudic1)
 - [Krsmanović Edis](https://github.com/EdisKrsmanovic)
+- [Dudić Jasmin](https://github.com/JasminDudic1)
  
 # DESCRIPTION:
 Online recipe book is an application used to find food recipes based on the ingredients you provide. You can choose a category, whether you want breakfast, lunch, dinner, dessert, vegetarian options, food for kids and more. Based on what category you choose you will be shown recipes of that type. There are also multiple choices for recipes, generally these 3 types:
