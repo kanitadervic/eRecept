@@ -4,7 +4,7 @@ Project developed using ASP.NET CORE and Angular for the course Object-oriented 
 [Demo on youtube](https://youtu.be/V6DW6RYMlGc)
  
 ## Members:
-- [Dervić Kanita](https://github.com/kdervic1)
+- [Dervić Kanita](https://github.com/kanitadervic)
 - [Krsmanović Edis](https://github.com/EdisKrsmanovic)
 - [Dudić Jasmin](https://github.com/JasminDudic1)
  
